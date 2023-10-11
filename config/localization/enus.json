@@ -1,0 +1,115 @@
+{
+	"id": "enus",
+	"navbarMenu": {
+		"labelHome": "HOME",
+		"labelServices": "MY FIELDS",
+		"labelAboutMe": "ABOUT ME",
+		"labelPortifolio": "PROJECTS",
+		"labelExperience": "EXPERIENCE"
+	},
+	"landingPage": {
+		"apresentationText": "Hello World,",
+		"firstTypeText": "the Dev you need...",
+		"secondTypeText": "Nizar Zaidoun",
+		"resumeText": "Fascinated by computer science and its security challenges, I'm pursuing a career in cybersecurity. Creative and persistent, I enjoy tackling challenges as part of a team to address current issues in the field of computer security.",
+		"buttonText": "Learn more"
+	},
+	"servicesOffer": {
+		"title": "My Domains",
+		"cards": {
+			"forensique": {
+				"title": "Forensics",
+				"contentText": "Strong knowledge of the fundamentals of digital forensics, including data acquisition methods, data analysis, and evidence presentation."
+			},
+			"devsecops": {
+				"title": "DevSecOps",
+				"contentText": "Deep understanding of software development, information security, and regulatory compliance. Proficient in network security, and penetration testing."
+			},
+			"pentesting": {
+				"title": "Penetration Testing",
+				"contentText": "Common penetration testing and vulnerability assessment. Reconnaissance, exploitation, post-exploitation, and reporting. Identification and remediation of vulnerabilities to ensure system and network security."
+			},
+			"developpement": {
+				"title": "Red Teaming",
+				"contentText": "Proficient in simulating attacks for system security assessment, including executing realistic attack scenarios and providing security recommendations. Skilled in social engineering and phishing techniques."
+			}
+		}
+	},
+	"aboutMePage": {
+		"title": "ABOUT ME",
+		"paragraph_one": "Final year Student at ENIT, I'm currently working at Pwn & Patch as a Cybersecurity Consultant.",
+		"paragraph_two": "As an experienced cybersecurity engineer, my passion lies in ensuring the protection of data and computer systems. With a wealth of industry experience, I specialize in designing and implementing robust security systems tailored to businesses of all sizes. My skillset encompasses penetration testing, regulatory compliance, and proficient security incident management. My overarching objective is to deliver advanced security solutions that safeguard digital assets.",
+		"paragraph_three": "As a passionate self-hosting enthusiast, I hold a strong belief in the importance of individuals having complete control over their data and online services. This conviction drives my specialization in independently hosting websites, applications, and services, reducing reliance on major online service providers. I find great joy in sharing my knowledge and personal experiences with others, aiming to empower them with the advantages of self-hosting and assisting them in embarking on this transformative journey. Ultimately, my goal is to simplify the path to digital self-sufficiency for everyone.",
+		"github_card": {
+			"bio": "🧑‍💻 Cybersecurity Engineer",
+			"bio1": "🛡️ Cybersecurity Consultant at Pwn & Patch",
+			"bio2": "⚔️ CTF Author & Player",
+			"bio3": "📚 Student at ENIT",
+			"followers": "Followers",
+			"following": "Following",
+			"repos": "Repos"
+		},
+		"pdf":"curriculoENUS",
+		"alt_dev_img": "Nizar Zaidoun"
+	},
+	"portifolioPage": {
+		"title": "PROJECTS",
+		"labelFilter": "ALL",
+		"createdLabel": "Created at",
+		"projects": {
+			"id_1": {
+				"title": "Graylog SOC Monitoring Solution",
+				"description": "N/A"
+			},
+			"id_2": {
+				"title": "Django CRUD Web Application",
+				"description": "N/A"
+			},
+			"id_3": {
+				"title": "Setting up Vulnerable Active Directory Lab for Penetration Testing Training",
+				"description": "a remplir"
+			},
+			"id_4": {
+				"title": "My CTF Challenges",
+				"description": "N/A"
+			}
+		}
+	},
+	"experiencePage": {
+		"title": "EXPERIENCE",
+		"timeline": {
+			"labelPosition": "Position",
+			"labelTitle": "Field of Study",
+			"labelCompany": "Company",
+			"labelCategory": "Degree",
+			"labelInstitution": "School",
+			"labelProfessionalCourse": "Institution",
+			"labelBachelorDegree": "Engineering degree",
+			"labelExtensionCourse": "Extension course"
+		}
+	},
+	"footer": {
+		"labelNavigation": {
+			"title": "NAVIGATION",
+			"labelHome": "Home",
+			"labelServices": "Services",
+			"labelAboutMe": "About me",
+			"labelPortifolio": "Projects",
+			"labelExperience": "Experience"
+		},
+		"labelHost": {
+			"title": "WEBSITE HOSTING"
+		},
+		"labelSourceCode": {
+			"title": "SOURCE CODE"
+		},
+		"labelTechs": {
+			"title": "TECHNOLOGIES"
+		},
+		"labelStats": {
+			"title": "STATISTICS",
+			"stats": "Dashboard"
+		},
+		"labelBuildVersion": "Build"
+	}
+}
